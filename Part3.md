@@ -14,7 +14,7 @@ Create and merge a pull request to merge the changes from the partFour branch in
 First, navigate to your repository in GitHub.
 
 1. Click **New Pull Request**
-2. Select the base as partTwo and the compare as partFour
+2. Select the `base` as partTwo and the `compare` as partFour **be sure to change the base repository to your personal fork**
 
 When you review what will be changed you will see that a new section is to be added called `Part4.md`. You can add a comment if you want. Generally this section will be used to determine the purpose of the request when reviewing it.
 
