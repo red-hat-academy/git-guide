@@ -24,5 +24,6 @@ To create a new branch the same command is used with the `-b` option:
 
 `git checkout -b <new branch name>`
 
-Continue to the next step by checking out an existing branch called "partTwo" the instructions for part two will then show up.
+Continue to the next step by checking out an existing branch called "partTwo" from the remote repository (origin) then the instructions for part two will then show up.
 
+`git checkout -b partTwo origin/partTwo`
