@@ -12,4 +12,4 @@ For even more information about merging check out the official [git documentatio
 
 Hey looks like someone just finished the steps for Part 3 in the **partThree** branch. Go ahead an merge those changes onto this branch with this command:
 
-`git merge partThree`
+`git merge origin/partThree`
