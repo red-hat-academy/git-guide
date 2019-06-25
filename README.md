@@ -1,5 +1,5 @@
 # Introduction to Git
-A quick multi-step module designed to help new users learn how to use Git and GitHub. Completing one set of instructions will reveal the next set to you. You may want the markdown formatting to work for the instructions. You can try [typora](https://typora.io/) for a simple solution
+A quick multi-step module designed to help new users learn how to use Git and GitHub. Completing one set of instructions will reveal the next set to you. You may want the markdown formatting to work for the instructions. You can try something like [typora](https://typora.io/) for a simple solution.
 
 ## Initial Instructions
 1. Create/login to a [GitHub](https://github.com) account.
