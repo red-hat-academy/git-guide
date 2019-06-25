@@ -1,9 +1,7 @@
-### Introduction to Git
-A quick multi-step module designed to help new users learn how to use Git and GitHub. Completing one set of instructions will reveal the next set to you.
+# Introduction to Git
+A quick multi-step module designed to help new users learn how to use Git and GitHub. Completing one set of instructions will reveal the next set to you. You may want the markdown formatting to work for the instructions. You can try [typora](https://typora.io/) for a simple solution
 
-##
-
-### Initial Instructions
+## Initial Instructions
 1. Create/login to a [GitHub](https://github.com) account.
 2. Fork this repository by clicking the fork button.
 3. Download and Install [git](https://git-scm.com/downloads) on your computer.
