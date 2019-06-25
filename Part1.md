@@ -24,5 +24,5 @@ To create a new branch the same command is used with the `-b` option:
 
 `git checkout -b <new branch name>`
 
-Continue to the next step by checking out a branch called "feat" new instructions will be added to the Instructions directory.
+Continue to the next step by checking out an existing branch called "partTwo" new instructions will be added to the Instructions directory.
 
