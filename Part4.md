@@ -8,7 +8,7 @@ When using a git repository changes in that repository will follow a lifecycle.
 --------------|-------------
  Untracked		| Files not in the repository or [ignored](https://git-scm.com/docs/gitignore)
  Unmodified		| A file that has not changed in the repo
- Modified			| A file that has changed
+ Modified			| A file that has changed in the repo
  Staged				| When a change is added to the list of changes that will be committed
  Committed		| The repository is updated with all of the staged changes returning everything that was staged to an unmodified state
 
