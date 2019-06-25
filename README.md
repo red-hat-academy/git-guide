@@ -8,4 +8,4 @@ A quick multi-step module designed to help new users learn how to use Git and Gi
 5. Navigate to the your fork of this repository.
 6. Click the *clone or download* dropdown button and copy that link.
 4. In the a terminal type `git clone <url>` replacing the url with the link you copied.
-5. After cloning navigate to the instructions directory of your cloned repository for the next set of instructions.
+5. After cloning navigate to part one and begin the guide.
