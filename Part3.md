@@ -1,5 +1,5 @@
 # Part 3
-> If you can make it here you can make it anywhere!
+> The shiny new part 3.
 
 Welcome to part 3. Here we'll take a look at another type of merging, pull requests.
 ### Pull Request
@@ -9,18 +9,18 @@ Pull requests allow you to tell others about changes that you've pushed to a bra
 > Part 4 has been finished and is ready to be merged with this branch!
 
 ### Creating a Pull Request
-Create and merge a pull request to merge the changes from the partFour branch into the partThree branch. Then use git pull to update your local repository.
+Create and merge a pull request to merge the changes from the partFour branch into the partTwo branch. Then use git pull to update your local repository.
 
 First, navigate to your repository in GitHub.
 
 1. Click **New Pull Request**
-2. Select the base as partThree and the compare as partFour
+2. Select the base as partTwo and the compare as partFour
 
 When you review what will be changed you will see that a new section is to be added called `Part4.md`. You can add a comment if you want. Generally this section will be used to determine the purpose of the request when reviewing it.
 
 4. Click **Create Pull Request**
 
-A pull request has now been created to merge changes from the branch partFour into partThree.
+A pull request has now been created to merge changes from the branch partFour into partTwo.
 
 ### Accepting a Pull Request
 Next you need to accept the pull request that you just created to merge the changes. You could require the pull request to be approved by those who have write access to the repository as part of the review process. To learn more about merging pull requests check out the official [GitHub documentation](https://help.github.com/en/articles/merging-a-pull-request).
